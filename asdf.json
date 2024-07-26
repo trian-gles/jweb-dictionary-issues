@@ -1,0 +1,31 @@
+{
+	"pattrstorage" : 	{
+		"name" : "asdf",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"asdf[1]" : [ 						{
+							"msg" : "set manually"
+						}
+ ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"asdf[1]" : [ 						{
+							"msg" : "set manually"
+						}
+ ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
